@@ -1,2 +1,2 @@
 # helm-charts
-master: https://circleci.com/docs/2.0/status-badges/
+[![CircleCI](https://circleci.com/gh/buker/helm-charts.svg?style=svg)](https://circleci.com/gh/buker/helm-charts)
